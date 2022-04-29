@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.FirstName {
+  display: block;
+  font-size: larger;
+  color: black;
+  padding: 5px;
+}
+
+.input {
+  font-size: larger;
+  padding: 5px;
+  margin: 2px;
+}
+
+.submit {
+  color: white;
+  background-color: red;
+  border-radius: 5px;
+  font-size: larger;
+  display: block;
+  padding: 5px;
+  margin: 10px auto;
+}
+
+.messages {
+  display: flex;
+  justify-content: center;
+}
+
